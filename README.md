@@ -1,0 +1,1 @@
+Code belonging to the manuscript "BMP5 signalling in beta cells and the impact on insulin secretion in the context of type 2 diabetes" by Dekker E, de Winter TJJ, Muñoz Garcia A, de Graaf N, Roodzant MJ, de Koning EJP, Carlotti F.  Diabetologia. 2025 Jun 5. doi: 10.1007/s00125-025-06457-9. PMID: 40471239.
